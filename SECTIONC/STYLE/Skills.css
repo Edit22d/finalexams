@@ -1,0 +1,10 @@
+body{
+    background-color: cadetblue;
+
+}
+tables,tr,td,th{
+    border: 2px solid black;
+}
+nav{
+    margin-left: 300px;
+}

@@ -1,0 +1,21 @@
+body{
+    background-color: darkolivegreen;
+}
+h1{
+    text-align: center;
+    color: white;
+    font-style: inherit;
+
+}
+
+
+header{
+    box-shadow: 0 10px 10px;
+}
+p{
+    margin-left: 100px;
+    color: white;
+}
+nav{
+    text-align: center;
+}
